@@ -1,0 +1,12 @@
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\bin\Debug\Qr_Code_Creator.exe.config
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\bin\Debug\Qr_Code_Creator.exe
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\bin\Debug\Qr_Code_Creator.pdb
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.csprojAssemblyReference.cache
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.Form1.resources
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.Properties.Resources.resources
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.csproj.GenerateResource.cache
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.csproj.CoreCompileInputs.cache
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.csproj.CopyComplete
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.exe
+C:\Users\RTC9911\source\repos\QrCodeCreator\Qr_Code_Creator\obj\Debug\Qr_Code_Creator.pdb
